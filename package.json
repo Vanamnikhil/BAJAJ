@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "(PROJECT)",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanamnikhil/BAJAJ.git"
+  },
+  "keywords": [
+    "react",
+    "react.js",
+    "frontend"
+  ],
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanamnikhil/BAJAJ/issues"
+  },
+  "homepage": "https://github.com/Vanamnikhil/BAJAJ#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
